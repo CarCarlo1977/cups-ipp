@@ -1,12 +1,12 @@
 {
-    "name": "julianosorio078/cups-ipp",
+    "name": "carcarlo777/cups-ipp",
     "description": "CUPS Implementation of IPP - PHP Client API",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Julian-Andres",
-            "email": "julian.osorio078@gmail.com"
+            "name": "Carlo",
+            "email": "carcarlodf@gmail.com"
         }
     ],
     "require": {
